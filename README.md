@@ -1,5 +1,7 @@
 # Gmail-clone
 
+web article: https://dev.to/qwertypool/gmail-clone-flutter-20ae
+
 ## Screenshots of the app...
 
 <img src="https://user-images.githubusercontent.com/36128196/111595184-e09a2a80-87f1-11eb-9730-def8802a376f.png" width="350" height="680">&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/36128196/111595246-f0197380-87f1-11eb-9445-d58f3d2cb6f9.png" width="350" height="680"> <img src="https://user-images.githubusercontent.com/36128196/111595215-e7c13880-87f1-11eb-9914-b768fbeeae80.png" width="350" height="900"> <img src="https://user-images.githubusercontent.com/36128196/111595282-fa3b7200-87f1-11eb-8eb6-ff1b3e987541.png" width="350" height="680">
